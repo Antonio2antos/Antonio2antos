@@ -1,6 +1,7 @@
 ### Olá! Eu sou o António Santos 👋
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio2antos/)
+[![Blog](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@O-Suspeito-do-C)
 
 ![António's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2antos&show_icons=true&theme=dracula)
 
