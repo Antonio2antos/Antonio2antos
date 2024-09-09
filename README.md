@@ -34,3 +34,7 @@ Currently studying computer engineering at the Open University.
 [![Blog](https://img.shields.io/badge/Websites%20ECommerce-With%20WordPress-blue)](https://www.cesaedigital.pt/) Websites & ECommerce with WordPress
 
 ## Currently doing Freelance Jobs
+
+https://abakos.pt/
+
+https://www.skaai.net/
