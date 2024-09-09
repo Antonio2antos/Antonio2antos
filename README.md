@@ -29,12 +29,14 @@ Currently studying computer engineering at the Open University.
 
 [![Blog](https://img.shields.io/badge/Frontend%20Development-Html/Css%20Javascript-blue)](https://www.cesaedigital.pt/) Front-End Development Course Javascript
 
-[![Blog](https://img.shields.io/badge/Back%20end-MySql%20Php-blue)](https://www.cesaedigital.pt/) Web Server Programming Languages MySql & Php
+[![Blog](https://img.shields.io/badge/Back%20end-MySql%20Php-blue)](https://www.cesaedigital.pt/) Back-End Development Languages MySql & Php
 
 [![Blog](https://img.shields.io/badge/Websites%20ECommerce-With%20WordPress-blue)](https://www.cesaedigital.pt/) Websites & ECommerce with WordPress
 
 ## Currently doing Freelance Jobs
 
 https://abakos.pt/
+Abakos' mission is to share as much information as possible so that you can make better financial decisions
 
 https://www.skaai.net/
+Our goal is to be the crucial partner in the development of smart urban landscapes and also contribute to a green environment
