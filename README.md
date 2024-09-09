@@ -25,7 +25,7 @@ Currently studying computer engineering at the Open University.
 
 [![Blog](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Responsive Web Design
 
-[![Blog](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://www.cesaedigital.pt/) Front-End Development Course Javascript
+[![Blog](https://img.shields.io/badge/Front-end%20Development-%20Javascript-blue)](https://www.cesaedigital.pt/) Front-End Development Course Javascript
 
 [![Blog](https://img.shields.io/badge/Web%20Server-MySql%20Php-blue)](https://www.cesaedigital.pt/) Web Server Programming Languages MySql & Php
 
