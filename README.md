@@ -29,6 +29,6 @@ Currently studying computer engineering at the Open University.
 
 [![Blog](https://img.shields.io/badge/Web%20Server-MySql%20Php-blue)](https://www.cesaedigital.pt/) Web Server Programming Languages MySql & Php
 
-[![Blog](https://www.cesaedigital.pt/wp-content/uploads/2016/07/logo_cesae-cores_horizontal_header_site.png)](https://www.cesaedigital.pt/) Websites & ECommerce with WordPress
+[![Blog](https://img.shields.io/badge/Websites%20ECommerce-With%20WordPress-blue)](https://www.cesaedigital.pt/) Websites & ECommerce with WordPress
 
 ## Currently doing Freelance Jobs
